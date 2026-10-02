@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Step Out">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12343a"/>
+      <stop offset="0.55" stop-color="#1c4d45"/>
+      <stop offset="1" stop-color="#e7b15a"/>
+    </linearGradient>
+    <linearGradient id="door" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6e7c8"/>
+      <stop offset="1" stop-color="#e8a84a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#sky)"/>
+  <circle cx="980" cy="90" r="70" fill="#f3d7a1" opacity="0.9"/>
+  <g fill="#f4efe4" opacity="0.18">
+    <ellipse cx="180" cy="300" rx="90" ry="28"/>
+    <ellipse cx="260" cy="286" rx="70" ry="24"/>
+    <ellipse cx="120" cy="286" rx="54" ry="20"/>
+  </g>
+  <g transform="translate(86,78)">
+    <rect x="0" y="0" width="150" height="230" rx="18" fill="#0e2428"/>
+    <rect x="28" y="36" width="94" height="158" rx="10" fill="url(#door)"/>
+    <circle cx="104" cy="118" r="7" fill="#0e2428"/>
+  </g>
+  <text x="280" y="168" fill="#f4efe4" font-family="Georgia, 'Iowan Old Style', serif" font-size="92" letter-spacing="-2">Step Out</text>
+  <text x="284" y="214" fill="#f6e7c8" font-family="Georgia, serif" font-size="28">Rain. Air. Wind. One call before you leave.</text>
+  <g font-family="ui-sans-serif, Segoe UI, sans-serif" font-size="16">
+    <rect x="284" y="250" width="92" height="34" rx="17" fill="#d9f0e4"/>
+    <text x="330" y="272" text-anchor="middle" fill="#1f7a4d" font-weight="700">GO</text>
+    <rect x="388" y="250" width="120" height="34" rx="17" fill="#fde7cc"/>
+    <text x="448" y="272" text-anchor="middle" fill="#b86a12" font-weight="700">CAUTION</text>
+    <rect x="520" y="250" width="116" height="34" rx="17" fill="#f8d9d6"/>
+    <text x="578" y="272" text-anchor="middle" fill="#a33b32" font-weight="700">STAY IN</text>
+  </g>
+</svg>

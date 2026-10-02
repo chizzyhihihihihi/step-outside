@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="280" viewBox="0 0 980 280">
+  <rect width="980" height="280" rx="28" fill="#f4efe4"/>
+  <g font-family="Georgia, serif">
+    <rect x="24" y="24" width="300" height="232" rx="22" fill="#fffaf2" stroke="#e4d9c6"/>
+    <text x="44" y="64" font-size="14" fill="#1f7a4d" font-family="ui-sans-serif, sans-serif" font-weight="700">GO</text>
+    <text x="44" y="118" font-size="42" fill="#122326">Go.</text>
+    <text x="44" y="156" font-size="16" fill="#6d6458" font-family="ui-sans-serif, sans-serif">Rain unlikely. Air fair.</text>
+    <text x="44" y="214" font-size="28" fill="#122326">18°</text>
+    <rect x="338" y="24" width="300" height="232" rx="22" fill="#fffaf2" stroke="#e4d9c6"/>
+    <text x="358" y="64" font-size="14" fill="#b86a12" font-family="ui-sans-serif, sans-serif" font-weight="700">CAUTION</text>
+    <text x="358" y="118" font-size="36" fill="#122326">Pack a shell.</text>
+    <text x="358" y="156" font-size="16" fill="#6d6458" font-family="ui-sans-serif, sans-serif">62% rain in two hours.</text>
+    <text x="358" y="214" font-size="28" fill="#122326">14°</text>
+    <rect x="652" y="24" width="304" height="232" rx="22" fill="#122326"/>
+    <text x="672" y="64" font-size="14" fill="#f8d9d6" font-family="ui-sans-serif, sans-serif" font-weight="700">STAY IN</text>
+    <text x="672" y="118" font-size="36" fill="#f4efe4">Wait it out.</text>
+    <text x="672" y="156" font-size="16" fill="#e4d9c6" font-family="ui-sans-serif, sans-serif">Raining now. Air poor.</text>
+    <text x="672" y="214" font-size="28" fill="#e8a84a">9°</text>
+  </g>
+</svg>
