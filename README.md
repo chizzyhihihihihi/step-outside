@@ -45,26 +45,6 @@ No API key. The free Open-Meteo tier is **non-commercial**, and the data is [CC 
 
 The last reading is stored on the device. If the network drops, you still get the previous call instead of a blank page.
 
-## Run it
-
-Static files only. A service worker will not register from `file://`, so serve the folder:
-
-```bash
-python3 -m http.server 8080
-```
-
-Open `http://localhost:8080`, allow location, then add it to your home screen.
-
-## Ship it on GitHub Pages
-
-This folder is the site root. `.nojekyll` is included so Pages does not run the files through Jekyll.
-
-1. Push these files to `main`.
-2. Settings → Pages → Deploy from branch → `/ (root)`.
-3. Open the HTTPS URL. Install and geolocation need that secure origin.
-
-Relative paths work on both `username.github.io` and `username.github.io/repo/`.
-
 ## Files
 
 ```text
